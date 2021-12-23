@@ -1,0 +1,45 @@
+﻿<Window x:Class="RegistrY.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RegistrY"
+        mc:Ignorable="d"
+        Title="Меню"  Height="500" Width="390" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Left" Width="390">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="89*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="111*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="92*"/>
+            <ColumnDefinition Width="205*"/>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Выйти" FontSize="20" Grid.Row="7" Click="Close" Grid.Column="1"/>
+        <Button Content="RegistrY" FontSize="20" Grid.Row="1" Click="Next" Grid.Column="1"/>
+        <Button Content="Информация" FontSize="20" Grid.Row="5" Click="Info" Grid.Column="1" Margin="0,0,0,35" Grid.RowSpan="2"/>
+        <Border  Margin="1,0,-251,0" Grid.Column="3" Grid.RowSpan="9" Background="#F2F2F2" >
+            <Image   Source="https://www.super-hobby.ru/zdjecia/7/8/0/8862_rd.jpg" Margin="0,76,10,269" HorizontalAlignment="Right" Width="230"/>
+        </Border>
+        <TextBlock  Grid.Column="3" Margin="10,0,-242,0" FontSize="14" HorizontalAlignment="Left" Width="232">
+           Программа для работы 
+          с реестром <LineBreak/>
+            Дизайн Выполнен в стиле
+            машины <LineBreak/>
+            Tayota ae86
+        </TextBlock>
+            <Button Content="ReadMe" FontSize="10" Grid.Row="8" Click="ReadMe" Grid.Column="3" Margin="184,47,-242,44"/>
+        <Image   Source="https://a.d-cd.net/1826a06s-960.jpg" Grid.Column="3" Margin="10,9,-242,69" Grid.RowSpan="5" Grid.Row="4" HorizontalAlignment="Left" Width="232"/>
+        <TextBlock Grid.Column="3" Margin="128,94,-242,0" Grid.Row="8" Text="Program by Felix Niyazov" FontSize="10"/>
+        <Button Content="Обзор" FontSize="20" Grid.Row="2" Click="Next2" Grid.Column="1" Margin="0,39,0,0" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

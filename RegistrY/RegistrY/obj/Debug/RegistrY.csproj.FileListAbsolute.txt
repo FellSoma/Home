@@ -1,0 +1,74 @@
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.csprojAssemblyReference.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\MainWindow.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\App.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.lref
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\bin\Debug\RegistrY.exe.config
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\bin\Debug\RegistrY.exe
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\bin\Debug\RegistrY.pdb
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\MainWindow.baml
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.g.resources
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.Properties.Resources.resources
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.GenerateResource.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.CoreCompileInputs.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.exe
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\RegistrY.pdb
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\Window1.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\asdfghjk\RegistrY\RegistrY\obj\Debug\Window1.baml
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\bin\Debug\RegistrY.exe.config
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\bin\Debug\RegistrY.exe
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\bin\Debug\RegistrY.pdb
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.csprojAssemblyReference.cache
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\MainWindow.g.cs
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\Window1.g.cs
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\App.g.cs
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.cache
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.lref
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\MainWindow.baml
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\Window1.baml
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.g.resources
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.Properties.Resources.resources
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.GenerateResource.cache
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.CoreCompileInputs.cache
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.exe
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\RegistrY.pdb
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\Window2.g.cs
+H:\Рабочий стол\3№курс\Системное Программирование\RegistrY\RegistrY\obj\Debug\Window2.baml
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\bin\Debug\RegistrY.exe.config
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\bin\Debug\RegistrY.exe
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\bin\Debug\RegistrY.pdb
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.csprojAssemblyReference.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\MainWindow.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\Window1.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\Window2.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\App.g.cs
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.lref
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\MainWindow.baml
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\Window1.baml
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\Window2.baml
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.g.resources
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.Properties.Resources.resources
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.GenerateResource.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.CoreCompileInputs.cache
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.exe
+C:\Users\nfeli\OneDrive\Рабочий стол\RegistrY\RegistrY\obj\Debug\RegistrY.pdb
+I:\RegistrY\RegistrY\bin\Debug\RegistrY.exe.config
+I:\RegistrY\RegistrY\bin\Debug\RegistrY.exe
+I:\RegistrY\RegistrY\bin\Debug\RegistrY.pdb
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.csprojAssemblyReference.cache
+I:\RegistrY\RegistrY\obj\Debug\MainWindow.g.cs
+I:\RegistrY\RegistrY\obj\Debug\Window1.g.cs
+I:\RegistrY\RegistrY\obj\Debug\Window2.g.cs
+I:\RegistrY\RegistrY\obj\Debug\App.g.cs
+I:\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.cache
+I:\RegistrY\RegistrY\obj\Debug\RegistrY_MarkupCompile.lref
+I:\RegistrY\RegistrY\obj\Debug\MainWindow.baml
+I:\RegistrY\RegistrY\obj\Debug\Window1.baml
+I:\RegistrY\RegistrY\obj\Debug\Window2.baml
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.g.resources
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.Properties.Resources.resources
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.GenerateResource.cache
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.csproj.CoreCompileInputs.cache
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.exe
+I:\RegistrY\RegistrY\obj\Debug\RegistrY.pdb
